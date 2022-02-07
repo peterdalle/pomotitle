@@ -1,6 +1,6 @@
 # pomotitle: The Postmodernist Title Generator in R
 
-![](pomotitle.jpg)
+![](man/figures/pomotitle.jpg)
 
 Why do we need a postmodern title generator in R?
 
