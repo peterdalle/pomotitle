@@ -1,0 +1,19 @@
+Package: pomotitle
+Type: Package
+Title: Postmodernist Title Generator
+Version: 1.0.0
+Date: 2022-02-07
+Authors@R: c(
+    person("Peter", "Dahlgren", email = "peterdalle@gmail.com", role = c("aut", "cre"), 
+           comment = c(ORCID = "0000-0002-3509-3329"))
+  )
+Description: Generate an unlimited number of postmodernist titles.
+URL: https://github.com/peterdalle/pomotitle
+BugReports: https://github.com/peterdalle/pomotitle/issues
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0), 
+    base
+RoxygenNote: 7.1.2
